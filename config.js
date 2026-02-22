@@ -1,0 +1,2 @@
+const BOT_TOKEN = '7359613471:AAER-tUqeIN9j7zR7NZHgC3f81rbpNyp5bc';
+const CHAT_ID = '@alexxxfishing_bot';
