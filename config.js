@@ -1,4 +1,5 @@
-const BOT_TOKEN = 7359613471:AAER-tUqeIN9j7zR7NZHgC3f81rbpNyp5bc;
+const BOT_TOKEN = ;
 
-const CHAT_ID = 652434108;
+const CHAT_ID = ;
+
 
